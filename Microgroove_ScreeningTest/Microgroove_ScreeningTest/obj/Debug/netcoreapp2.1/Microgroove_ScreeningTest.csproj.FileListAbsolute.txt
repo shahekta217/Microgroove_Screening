@@ -1,0 +1,11 @@
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\bin\Debug\netcoreapp2.1\Microgroove_ScreeningTest.deps.json
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\bin\Debug\netcoreapp2.1\Microgroove_ScreeningTest.runtimeconfig.json
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\bin\Debug\netcoreapp2.1\Microgroove_ScreeningTest.runtimeconfig.dev.json
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\bin\Debug\netcoreapp2.1\Microgroove_ScreeningTest.dll
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\bin\Debug\netcoreapp2.1\Microgroove_ScreeningTest.pdb
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\obj\Debug\netcoreapp2.1\Microgroove_ScreeningTest.csprojAssemblyReference.cache
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\obj\Debug\netcoreapp2.1\Microgroove_ScreeningTest.csproj.CoreCompileInputs.cache
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\obj\Debug\netcoreapp2.1\Microgroove_ScreeningTest.AssemblyInfoInputs.cache
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\obj\Debug\netcoreapp2.1\Microgroove_ScreeningTest.AssemblyInfo.cs
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\obj\Debug\netcoreapp2.1\Microgroove_ScreeningTest.dll
+C:\Users\Ekta\source\repos\Microgroove_ScreeningTest\Microgroove_ScreeningTest\obj\Debug\netcoreapp2.1\Microgroove_ScreeningTest.pdb
